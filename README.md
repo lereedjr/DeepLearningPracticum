@@ -5,7 +5,7 @@ Initial Preparation
 	
 
 
-![Python Dictionary](pydict.png)
+![Python Dictionary](DeepLearningPracticum/pydict.png)
       
       
 
