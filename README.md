@@ -4,7 +4,7 @@ Initial Preparation
 	Initially, I downloaded the files that I would need for Dog Breed Identification from Kaggle.  I extracted each of the files, as they were archived.  I then placed the files in the folders from which they would soon be accessed.  With everything in place, I was able to begin the first procedure.  This section of code would take in the label of the labels.csv and read them into a python dictionary.  These were the serial numbers as keys and their corresponding names of dog breeds. The serial numbers were also the names of the pictures.  Below is an image of the python dictionary.
 	
 
-![Alt text](DeepLearningPracticum/add1.PNG?raw=true "Title")
+![Alt text](pydict.PNG?raw=true "Title")
       
 
   The next section of code took the name values of breeds and appended a number to the name to signify the number of times any one breed was represented.  So it was Bassett Hound – 1,2 or 29 if the name appeared that many times.  The python dictionary that was created is called the breed set.  A representation of it is below.
