@@ -9,9 +9,11 @@ Initial Preparation
       
       
 
-  The next section of code took the name values of breeds and appended a number to the name to signify the number of times any one breed was represented.  So it was Bassett Hound – 1,2 or 29 if the name appeared that many times.  The python dictionary that was created is called the breed set.  A representation of it is below.
-![Python Dictionary](https://github.com/lereedjr/DeepLearningPracticum/blob/master/breed.PNG?raw=true) 
-  After the breed set was created, the set could be used with the initial python dictionary to take the serial number names from the pictures, associate the breed that corresponds to the stripped serial number, then affix the breed name from the breed set to the pictures.  This resulted in pictures that were properly named and ready for further processing.  The difference in the photos is shown below.
+	The next section of code took the name values of breeds and appended a number to the name to signify the number of times any one breed was represented.  So it was Bassett Hound – 1,2 or 29 if the name appeared that many times.  The python dictionary that was created is called the breed set.  A representation of it is below.
+  
+![Python Dictionary](https://github.com/lereedjr/DeepLearningPracticum/blob/master/breed set.png?raw=true) 
+
+	After the breed set was created, the set could be used with the initial python dictionary to take the serial number names from the pictures, associate the breed that corresponds to the stripped serial number, then affix the breed name from the breed set to the pictures.  This resulted in pictures that were properly named and ready for further processing.  The difference in the photos is shown below.
 
 Before
 ![Python Dictionary](https://github.com/lereedjr/DeepLearningPracticum/blob/master/beforepic.PNG?raw=true)
