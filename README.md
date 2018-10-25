@@ -14,7 +14,7 @@ Initial Preparation
   After the breed set was created, the set could be used with the initial python dictionary to take the serial number names from the pictures, associate the breed that corresponds to the stripped serial number, then affix the breed name from the breed set to the pictures.  This resulted in pictures that were properly named and ready for further processing.  The difference in the photos is shown below.
 
 Before
-![Python Dictionary](https://github.com/lereedjr/DeepLearningPracticum/blob/master/before.PNG?raw=true)
+![Python Dictionary](https://github.com/lereedjr/DeepLearningPracticum/blob/master/beforepic.PNG?raw=true)
 After
-![Python Dictionary](https://github.com/lereedjr/DeepLearningPracticum/blob/master/after.PNG?raw=true)
+![Python Dictionary](https://github.com/lereedjr/DeepLearningPracticum/blob/master/afterpic.PNG?raw=true)
 	
