@@ -5,7 +5,7 @@ Initial Preparation
 	
 
 
-![Python Dictionary](https://github.com/lereedjr/DeepLearningPracticum/blob/master/add1.PNG?raw=true)
+![Python Dictionary](https://github.com/lereedjr/DeepLearningPracticum/blob/master/pydict.PNG?raw=true)
       
       
 
