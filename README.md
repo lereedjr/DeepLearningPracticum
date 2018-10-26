@@ -20,8 +20,15 @@ The next section of code took the name values of breeds and appended a number to
 After the breed set was created, the set could be used with the initial python dictionary to take the serial number names from the pictures, associate the breed that corresponds to the stripped serial number, then affix the breed name from the breed set to the pictures.  This resulted in pictures that were properly named and ready for further processing.  The difference in the photos is shown below.
 
 ## Before
-![Python Dictionary](https://github.com/lereedjr/DeepLearningPracticum/blob/master/beforepic.PNG?raw=true)
+![Before Assembly](https://github.com/lereedjr/DeepLearningPracticum/blob/master/beforepic.PNG?raw=true)
 </br>
 ## After
-![Python Dictionary](https://github.com/lereedjr/DeepLearningPracticum/blob/master/afterpic.PNG?raw=true)
+![After Assembly](https://github.com/lereedjr/DeepLearningPracticum/blob/master/afterpic.PNG?raw=true)
+
+</br>
+With the pictures being properly labeled and numbered, we needed to one hot encode the values for each breed as classes.  So I One hot encoded 115 classes, one for each breed of dog included in this challenge.  This one hot encoding is what assists the CNN in categorizing the dog breeds.  There is a brief example, shown below.
+
+</br>
+
+![After Assembly](https://github.com/lereedjr/DeepLearningPracticum/blob/master/onehot.PNG?raw=true)
 	
