@@ -44,6 +44,7 @@ After the statistics we need to actually change the size of the photos, so we us
 
 </br> 
 ##Train Data Array Example
+</br>
 ![Statistics](https://github.com/lereedjr/DeepLearningPracticum/blob/master/loaddataone.PNG?raw=true)
 </br>
 
