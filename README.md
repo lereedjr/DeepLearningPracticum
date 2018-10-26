@@ -43,18 +43,35 @@ Next, we have over 10,000 photos and they are all of differing sizes. We cannot 
 After the statistics we need to actually change the size of the photos, so we use a function that does that and more.  It also reduces the color spectrum to grey scale, which will help our model to train a bit faster.  With all of the photos for training prepared, we also have to do the same for the test data, because they are being evaluated by the same CNN, at the same time. Below are one example of the data formations that make up the photos and two examples of the photos that made it into train and test data loads.
 
 </br> 
+</br> 
+
 ##Train Data Array Example
+
 </br>
+</br>
+
 ![Statistics](https://github.com/lereedjr/DeepLearningPracticum/blob/master/loaddataone.PNG?raw=true)
+
+</br>
 </br>
 
 ##Train Data Photo Example
+
 </br>
+</br>
+
 ![Statistics](https://github.com/lereedjr/DeepLearningPracticum/blob/master/loaddatatwo.PNG?raw=true)
 
 </br>
-##Test Data Photo Example
 </br>
+
+##Test Data Photo Example
+
+</br>
+</br>
+
 ![Statistics](https://github.com/lereedjr/DeepLearningPracticum/blob/master/loadtestdata.PNG?raw=true)
 
+</br>
+</br>
 
