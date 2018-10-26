@@ -28,7 +28,9 @@ After the breed set was created, the set could be used with the initial python d
 </br>
 With the pictures being properly labeled and numbered, we needed to one hot encode the values for each breed as classes.  So I One hot encoded 115 classes, one for each breed of dog included in this challenge.  This one hot encoding is what assists the CNN in categorizing the dog breeds.  There is a brief example, shown below.
 
-</br>
+</br> </br>
 
 ![One Hot Encoding](https://github.com/lereedjr/DeepLearningPracticum/blob/master/onehot.PNG?raw=true)
+
+
 	
