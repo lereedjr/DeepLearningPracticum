@@ -75,3 +75,22 @@ After the statistics we need to actually change the size of the photos, so we us
 </br>
 </br>
 
+The next section is where I began having issues.  At first my Anaconda installation began intermittently not recognizing that I had Keras installed in my Tensorflow environment. Then it went to not recognizing it at all.  I uninstalled Anaconda, which takes loonger than it dies to install it, then reinstalled it, hoping for something better, but no relief.  I uninstalled it again and tried to use my normally installed python3 adding jupyter notebook to it along with keras and tensorflow, but still no relief.  I changed to Google Colab, but the runtime would always time out on me, before reaching the end, not to mention what it took to learn to mount my Google drive to my Colab setup.  I then went the extra mile and tried with my AWS setup.  Same problem on the Deep learning machine and on a regular machine that I added Anaconda to, myself.  I went through about 4 of the AWS machines.
+
+</br>
+</br>
+
+![Statistics](https://github.com/lereedjr/DeepLearningPracticum/blob/master/setup.PNG?raw=true)
+
+</br>
+</br>
+
+##Conclusion
+
+</br>
+</br>
+
+After going through so much to get this going, I was extremely sad to have not been able to get this going, especially after having so many working examples, in class.  I am going to remove all installations of python from my computer and clean up my environment.  After that, I will reinstall Anaconda and try to go further with this run, until I get it to complete so that I can train the CNN.  
+</br>
+</br>
+To recap, I would have checked all learning rates from 0.01 to 0.0001 to learning where the best or lowest point is, or your could say the place where the validation loss does not rise or rises the latest and the least.  After that, I would apply loss, Batch normalization and other tools to get the model to the point where it does not over-fit, but it performs its best, relatively.  Not overfitting is to ensure that the model can be used on datasets outside of the current dataset, upon which it was created.  This was quiet enjoyable.  Thank you.
