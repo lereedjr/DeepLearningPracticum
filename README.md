@@ -48,10 +48,12 @@ After the statistics we need to actually change the size of the photos, so we us
 </br>
 
 ##Train Data Photo Example
+</br>
 ![Statistics](https://github.com/lereedjr/DeepLearningPracticum/blob/master/loaddatatwo.PNG?raw=true)
 
 </br>
 ##Test Data Photo Example
+</br>
 ![Statistics](https://github.com/lereedjr/DeepLearningPracticum/blob/master/loadtestdata.PNG?raw=true)
 
 
