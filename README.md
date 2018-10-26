@@ -30,5 +30,5 @@ With the pictures being properly labeled and numbered, we needed to one hot enco
 
 </br>
 
-![After Assembly](https://github.com/lereedjr/DeepLearningPracticum/blob/master/onehot.PNG?raw=true)
+![One Hot Encoding](https://github.com/lereedjr/DeepLearningPracticum/blob/master/onehot.PNG?raw=true)
 	
