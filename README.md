@@ -101,3 +101,11 @@ After going through so much to get this going, I was extremely sad to have not b
 </br>
 
 To recap, I would have checked all learning rates from 0.01 to 0.0001 to learning where the best or lowest point is, or your could say the place where the validation loss does not rise or rises the latest and the least.  After that, I would apply loss, Batch normalization and other tools to get the model to the point where it does not over-fit, but it performs its best, relatively. Not overfitting is to ensure that the model can be used on datasets outside of the current dataset, upon which it was created.  This was quiet enjoyable.  Thank you.
+
+##References
+</br>
+</br>
+https://towardsdatascience.com/dog-breed-classification-hands-on-approach-b5e4f88c333e
+</br>
+</br>
+https://towardsdatascience.com/image-classification-python-keras-tutorial-kaggle-challenge-45a6332a58b8
