@@ -1,4 +1,4 @@
-# DeepLearningPracticum
+# DeepLearningProject
 Dog Breed Identification
 Initial Preparation
 	Initially, I downloaded the files that I would need for Dog Breed Identification from Kaggle.  I extracted each of the files, as they were archived.  I then placed the files in the folders from which they would soon be accessed.  With everything in place, I was able to begin the first procedure.  This section of code would take in the label of the labels.csv and read them into a python dictionary.  These were the serial numbers as keys and their corresponding names of dog breeds. The serial numbers were also the names of the pictures.  Below is an image of the python dictionary.
