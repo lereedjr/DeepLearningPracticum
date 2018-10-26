@@ -80,7 +80,7 @@ The next section is where I began having issues.  At first my Anaconda installat
 </br>
 </br>
 
-![Statistics](https://github.com/lereedjr/DeepLearningPracticum/blob/master/setup.PNG?raw=true)
+![Load Setup](https://github.com/lereedjr/DeepLearningPracticum/blob/master/setup.PNG?raw=true)
 
 </br>
 </br>
@@ -90,7 +90,14 @@ The next section is where I began having issues.  At first my Anaconda installat
 </br>
 </br>
 
-After going through so much to get this going, I was extremely sad to have not been able to get this going, especially after having so many working examples, in class.  I am going to remove all installations of python from my computer and clean up my environment.  After that, I will reinstall Anaconda and try to go further with this run, until I get it to complete so that I can train the CNN.  
+After going through so much to get this going, I was extremely sad to have not been able to get this going, especially after having so many working examples, in class.  I am going to remove all installations of python from my computer and clean up my environment.  After that, I will reinstall Anaconda and try to go further with this run, until I get it to complete so that I can train the CNN. Only time constraints, not will, prevent this from happening now. 
+
 </br>
 </br>
-To recap, I would have checked all learning rates from 0.01 to 0.0001 to learning where the best or lowest point is, or your could say the place where the validation loss does not rise or rises the latest and the least.  After that, I would apply loss, Batch normalization and other tools to get the model to the point where it does not over-fit, but it performs its best, relatively.  Not overfitting is to ensure that the model can be used on datasets outside of the current dataset, upon which it was created.  This was quiet enjoyable.  Thank you.
+
+![Load Setup](https://github.com/lereedjr/DeepLearningPracticum/blob/master/cnncode.PNG?raw=true)
+
+</br>
+</br>
+
+To recap, I would have checked all learning rates from 0.01 to 0.0001 to learning where the best or lowest point is, or your could say the place where the validation loss does not rise or rises the latest and the least.  After that, I would apply loss, Batch normalization and other tools to get the model to the point where it does not over-fit, but it performs its best, relatively. Not overfitting is to ensure that the model can be used on datasets outside of the current dataset, upon which it was created.  This was quiet enjoyable.  Thank you.
